@@ -1,3 +1,5 @@
+![1473410135-98571390](https://user-images.githubusercontent.com/54114888/116945916-6f75e000-ac96-11eb-8569-f5569e151c97.jpg)
+
 # Cloud Removal with GAN - Satellite Image Processing
 An AI System based on Generative Adversarial Networks to predict and remove the Clouds and Fog from an Image captured from Satellite.
 
